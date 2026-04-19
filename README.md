@@ -81,14 +81,6 @@ npm run dev
 
 ---
 
-📸 Screenshots
-
-(Add your project screenshots here)
-
-
-
----
-
 ⭐ Acknowledgements
 
 This project was built for learning and improving frontend development skills using modern React practices.
